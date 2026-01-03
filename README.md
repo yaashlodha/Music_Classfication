@@ -49,6 +49,8 @@ source .venv/bin/activate
 ```
 pip install google-genai tinytag python-dotenv
 
+pip install -r requirements.txt
+
 ```
 
 ---
