@@ -95,4 +95,4 @@ Contributions are welcome! If you have ideas for new mood categories or feature 
 
 ---
 
-**Would you like me to help you generate a `LICENSE` file or a `.gitignore` file to complete your repository setup?**
+
